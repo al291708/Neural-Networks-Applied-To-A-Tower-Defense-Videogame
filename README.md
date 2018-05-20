@@ -9,4 +9,14 @@ The main objective is to develop an artificial intelligence for a video game by 
 Software needed:
 Unity3D, Tensorflow, Python, CUDA, TensorflowSharp. Information about installation in https://github.com/Unity-Technologies/ml-agents
 
+Project files:
+https://drive.google.com/drive/folders/1oiCsl4yHPx0Bbh82WMUzUBmJi_hVsqmJ?usp=sharing
+
+Gameplay:
+https://www.youtube.com/watch?v=w7Cs0PDn8Gk
+
+Time dedicated to the project:
+https://docs.google.com/spreadsheets/d/1qqb8tHH7cPA0KcuFzqvrL8TuKzHOcIwq4Q5mlOyySp0/edit?usp=sharing
+
+
 Author: Adrián González Ramírez, gonzalezramirezadrian@gmail.com
